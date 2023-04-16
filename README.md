@@ -1,0 +1,2 @@
+contructor use
+javascript
